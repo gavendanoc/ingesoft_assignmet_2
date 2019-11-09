@@ -1,7 +1,7 @@
 # ingesoft_assignmet_2
 Examples of some functional programming patterns in Python 
 
-Python version :  3.7.1
+Tested with python version :  3.7.1
 
 Implemented patterns:
   + Hollywood principle
